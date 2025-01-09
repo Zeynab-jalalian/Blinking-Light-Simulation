@@ -17,3 +17,6 @@ body{
     background: gray;
     transition: 0.5s;
 }
+.red{
+    background-color: red;
+}
